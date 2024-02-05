@@ -87,44 +87,44 @@ El protocolo HTTP funciona mediante mensajes de petición y respuesta codificado
 
 1\. El usuario escribe la URL del recurso que quiere buscar\.
 
-![](img%5CT4%20Servidores%20Web0.png)
+![](img/%5CT4%20Servidores%20Web0.png)
 
 
 
 2\. El cliente se pone en contacto con un servidor DNS para que resuelva el nombre `www.mec.es`
 
-![](img%5CT4%20Servidores%20Web1.png)
+![](img/%5CT4%20Servidores%20Web1.png)
 
 
 
 3\. El servidor DNS responde con la IP del servidor web asociado a la dirección `www.mec.es`
 
-![](img%5CT4%20Servidores%20Web2.png)
+![](img/%5CT4%20Servidores%20Web2.png)
 
 
 
 4\. Antes de empezar la conexión HTTP\. Primero\, el cliente solicita una conexión TCP con el servidor web\.
 
-![](img%5CT4%20Servidores%20Web3.png)
+![](img/%5CT4%20Servidores%20Web3.png)
 
 
 5\. El servidor web acepta la conexión TCP
 
-![](img%5CT4%20Servidores%20Web4.png)
+![](img/%5CT4%20Servidores%20Web4.png)
 
 
 6\. El cliente usa la conexión TCP establecida para hacer una petición HTTP del documento `index.html`
 
-![](img%5CT4%20Servidores%20Web5.png)
+![](img/%5CT4%20Servidores%20Web5.png)
 
 7\. El servidor web responde con un mensaje de respuesta que incluye el fichero `index.html` más un código de estado\.
 
-![](img%5CT4%20Servidores%20Web6.png)
+![](img/%5CT4%20Servidores%20Web6.png)
 
 
 8\. Finalmente\, una vez que el cliente ha recibido el fichero `index.html`, el navegador se encarga de interpretarlo y representarlo por pantalla\.
 
-![](img%5CT4%20Servidores%20Web7.png)
+![](img/%5CT4%20Servidores%20Web7.png)
 
 ### Otros recursos en las respuestas HTML
 
@@ -141,7 +141,7 @@ La estructura de los mensajes HTTP tienen tres partes:
   * Encabezados
   * Cuerpo
 
-![](img%5CT4%20Servidores%20Web8.png)
+![](img/%5CT4%20Servidores%20Web8.png)
 
 ### Mensajes de petición
 
@@ -157,7 +157,7 @@ En un mensaje de petición nos encontramos los siguientes elmentos:
 
 * <span style="color:#FFFF00">Cuerpo: </span> contiene el grueso de la información enviada\. Suele estar vacío para las peticiones con las peticiones `GET`\.
 
-![](img%5CT4%20Servidores%20Web9.png)
+![](img/%5CT4%20Servidores%20Web9.png)
 
 El **método/verbo** indica lo que se quiere hacer con el recurso\. Los más comunes son `GET` y `POST`\.
 
@@ -206,7 +206,7 @@ En un  mensaje de respuesta nos encontramos campos muy parecidos a los de la pet
 
 * <span style="color:#FFFF00">Cuerpo. </span> 
 
-![](img%5CT4%20Servidores%20Web11.png)
+![](img/%5CT4%20Servidores%20Web11.png)
 
 El  **código de respuesta** es un número de tres cifras que indica si una petición se ha recibido y atendido correctamente o si ha habido algún problema\. Se agrupan según el primer dígito:
 
@@ -224,7 +224,7 @@ El  **código de respuesta** es un número de tres cifras que indica si una peti
 
 Los códigos de respuesta más comunes son:
 
-<img style="float: right;" src="img%5CT4%20Servidores%20Web14.png">
+<img style="float: right;" src="img/%5CT4%20Servidores%20Web14.png">
 
 * `200` OK
 
