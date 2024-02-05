@@ -223,7 +223,6 @@ El  **código de respuesta** es un número de tres cifras que indica si una peti
 
 Los códigos de respuesta más comunes son:
 
-<img style="float: right;" src="img/error404.png">
 
 * `200` OK
 
