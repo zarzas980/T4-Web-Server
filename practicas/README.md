@@ -9,3 +9,6 @@ Además se tendrán dos clientes cada uno en una de las redes internas mencionad
 * Cliente A: con IP `10.33.99.100`
 * Cliente B: con IP `172.16.0.100`
 
+## Lista de práticas
+
+* [Práctica 1: Virtual Hosts](/practicas/P01-VirtualHost/)
