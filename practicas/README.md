@@ -11,4 +11,5 @@ Además se tendrán dos clientes cada uno en una de las redes internas mencionad
 
 ## Lista de práticas
 
+* [Práctica 0: Instalación](/practicas/P00-Instalacion/)
 * [Práctica 1: Virtual Hosts](/practicas/P01-VirtualHost/)
