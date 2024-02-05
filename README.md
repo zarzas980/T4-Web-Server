@@ -14,7 +14,7 @@ Este repositorio contiene tanto los apuntes de teoría relacionados con el tema 
 
 Puedes descargar todo el repositorio en formato `.zip` de forma muy sencilla simplemente haciendo click en el botón descargar como se ve en la imagen.
 
-BLABLABLABLA
+![](img/zip.png)
 
 ### Descarga mediante Git
 
@@ -28,7 +28,7 @@ sudo apt install git
 
 Una vez instalado simplemente copias la URL del repositorio. 
 
-BLABLABLBLALBA
+![](img/git.png)
 
 Ahora navegas a la carpeta de tu sistema en la que quieras clonar el repositorio. Una vez que estás ahí ejectuas el comando:
 
