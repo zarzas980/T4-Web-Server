@@ -2,7 +2,7 @@
 
 El concepto Virtual Host nos permite tener varios sitios web funcionando en el servidor. Estos dos sitos web no tienen porqué pertenecer al mismo dominio. Por ejemplo, `www.misitio.com` y `www.tusitio.com`. 
 
-## Requisitos
+## Desarrollo
 
 Crea los Virtual Hosts que cumplan las siguientes características:
 
