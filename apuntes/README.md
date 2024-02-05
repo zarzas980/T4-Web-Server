@@ -87,8 +87,7 @@ El protocolo HTTP funciona mediante mensajes de petición y respuesta codificado
 
 1\. El usuario escribe la URL del recurso que quiere buscar\.
 
-![](img/%5CT4%20Servidores%20Web0.png)
-
+![](img/http1.png)
 
 
 2\. El cliente se pone en contacto con un servidor DNS para que resuelva el nombre `www.mec.es`
@@ -224,7 +223,7 @@ El  **código de respuesta** es un número de tres cifras que indica si una peti
 
 Los códigos de respuesta más comunes son:
 
-<img style="float: right;" src="img/%5CT4%20Servidores%20Web14.png">
+<img style="float: right;" src="img/error404.png">
 
 * `200` OK
 
