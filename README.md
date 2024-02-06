@@ -47,7 +47,12 @@ Luego cargas el repositorio remoto
 ```
 git remote add -f origin <URL del repositorio>
 ````
-A continuación necesitas habilitar la opción sparse checkout para elegir que opciones se deben copiar. Esto se hace usando el archivo `.git/info/sparse-checkout`
+A continuación necesitas habilitar la opción sparse checkout para elegir que opciones se deben copiar.
+```
+git config core.sparseCheckout true
+```
+
+Luego se especifica que archivos se quieren importar incluyéndolos en el archivo `.git/info/sparse-checkout`
 ```
 echo "*.html" >> .git/info/sparse-checkout
 echo "*.css" >> .git/info/sparse-checkout
