@@ -1,4 +1,4 @@
-# Práctica 0
+# Práctica 0: Instalación de Apache
 
 Para realizar las práticas se parte de la configuración de máquinas virtuales mencionada en [índice](/practicas) de  prácticas. 
 
