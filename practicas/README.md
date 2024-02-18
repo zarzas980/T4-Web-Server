@@ -16,3 +16,4 @@ Además se tendrán dos clientes cada uno en una de las redes internas mencionad
 * [Práctica 2: Mapeo de URLs](/practicas/P02-MapeoURL/)
 * [Práctica 3: Negociación de contenidos](/practicas/P03-NegociacionDeContenidos/)
 * [Práctica 4: Control de acceso](/practicas/P04-ControlDeAcceso/)
+* [Práctica 5: ficheros .htaccess](/practicas/P05-htaccess/)
