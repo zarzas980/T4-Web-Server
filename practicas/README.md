@@ -14,3 +14,4 @@ Además se tendrán dos clientes cada uno en una de las redes internas mencionad
 * [Práctica 0: Instalación](/practicas/P00-Instalacion/)
 * [Práctica 1: Virtual Hosts](/practicas/P01-VirtualHost/)
 * [Práctica 2: Mapeo de URLs](/practicas/P02-MapeoURL/)
+* [Práctica 3: Negociación de contenidos](/practicas/P03-NegociacionDeContenidos/)

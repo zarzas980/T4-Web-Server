@@ -1,10 +1,6 @@
 # Práctica 2: Directivas de mapeo de URL y directiva Indexes.
 
-En esta práctica se pondrá en práctica algunas de las directivas de Apache para el mapeo de URL. CUando hablamos de Mapeo de URL nos referimos a cómo gestiona el servidor el recurso de pedido en una URL. 
-
-Cómo se mencionó en los apuntes conviene tener a mano el [índice de directivas](https://httpd.apache.org/docs/2.4/mod/directives.html). En concreto las que más vamos a usar aquí es la de [`options`](https://httpd.apache.org/docs/2.4/mod/core.html#options).
-
-# Cambiar arriba
+En esta práctica se pondrá en práctica algunas de las directivas de Apache para el mapeo de URL. CUando hablamos de Mapeo de URL nos referimos a cómo gestiona el servidor el recurso de pedido en una URL. Cómo se mencionó en los apuntes conviene tener a mano el [índice de directivas](https://httpd.apache.org/docs/2.4/mod/directives.html). 
 
 ## Requisitos
 
@@ -27,13 +23,15 @@ Comprueba que ahora ya no se muestra la tabla de contenidos al entrar en el siti
 
 Añade una directiva `<Directory>`al archivo de configuración de tu sito web para que muestre la tabla de contenidos cuando se accede a recursos en la ruta `/var/www/pagina`.
 
+Nota: volver al nombre original de `index.html`,
+
 #### Ejercicio 2: FollowSymLinks
 
 Crea un archivo de prueba `prueba.html` en tu directory home. Luego crea un enlace simbólico a este fichero desde tu sitio web y comprueba si es posible seguirlo. Elimina la directiva `FollowSymLinks` para que no se posible seguir enlances simbólicos.
 
 #### Ejercicio 3: Alias
 
-Crea el directorio `/srv/images` y el archivo `prueba2.html` dentro de el. Utiliza la directiva `Alias` para mapear la URL `www.pagina.example/imagenes` al directorio `/srv/images`. 
+Crea el directorio `/srv/images` y el archivo `prueba2.html` dentro de el. Utiliza la directiva `Alias` para mapear la URL `www.mipagina.example/imagenes` al directorio `/srv/images`. 
 
 Recuerda que es necesario añadir una directiva `<Directory>` para que el servidor tenga permiso de acceso al directorio `/srv/images`. 
 
