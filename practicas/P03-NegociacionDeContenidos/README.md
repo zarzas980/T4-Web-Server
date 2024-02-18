@@ -33,3 +33,7 @@ Para ello habilita el fichero de configuración `conf-available/localized-error-
 </Ifmodule>
 ```
 * Comprueba el funcionamiento de las páginas de error buscando un recurso que no existe mientras tienes el navegador en español y en inglés.
+
+**Nota:** necesitas habilitar los tres módulos necesarios para que la localización de errores funcione: `mod_negotiation`, `mod_include`, `mod_alias`.
+
+**Nota:** asegúrate de deshabilitar la directiva `ErrorDocument` que creaste en la primera parte.
