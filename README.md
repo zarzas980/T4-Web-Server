@@ -3,7 +3,7 @@
 Índice de contenidos del repositorio:
 
 * [Apuntes](/apuntes/)
-* [Práticas](/practicas)
+* [Prácticas](/practicas)
 * [Recursos](/recursos)
 
 ## ¿Cómo usar este repositorio?
