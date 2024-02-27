@@ -258,6 +258,6 @@ Existen muchos tipos de servidores disponibles para montar un servicio Web. En n
 * **Popular**: Apache es uno de los servicios web más usados lo que facilita mucho la búsqueda de ayuda en foros, documentación, solución de errores, etc.
 
 Antes de empezar la instalación y configuración del servidor conviene tener a mano el [índice de directivas](https://httpd.apache.org/docs/2.4/mod/directives.html) que nos va a servir mucho de ayuda para comprobar rápidamente la sintaxis de una directiva y los atributos que puede tomar.
-
-También añadiré aquí un enlace a los video turoriales de YouTube cuando estén disponibles.
+ 
+ Además también podéis tener al lado la [lista de reproducción](https://www.youtube.com/playlist?list=PLHO-v4UgpfwVXk8j1DqoySdOKL7nbbraZ) de YouTube relacionada con el tema.
 
