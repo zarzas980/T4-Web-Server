@@ -19,5 +19,3 @@ Además se tendrán dos clientes cada uno en una de las redes internas mencionad
 * [Práctica 5: ficheros .htaccess](/practicas/P05-htaccess/)
 * [Práctica 6: Práctica final](/practicas/P06-Final/)
 
-
-$$y(t)=- \frac{1}{2} a· t^2 + v_y· t + y_0$$
