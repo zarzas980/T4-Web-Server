@@ -9,6 +9,8 @@ Además se tendrán dos clientes cada uno en una de las redes internas mencionad
 * Cliente A: con IP `10.33.99.100`
 * Cliente B: con IP `172.16.0.100`
 
+Recomiendo tener a mano el [índice de directivas](https://httpd.apache.org/docs/2.4/mod/directives.html) para estas prácticas.
+
 ## Lista de práticas
 
 * [Práctica 0: Instalación](/practicas/P00-Instalacion/)
@@ -17,5 +19,6 @@ Además se tendrán dos clientes cada uno en una de las redes internas mencionad
 * [Práctica 3: Negociación de contenidos](/practicas/P03-NegociacionDeContenidos/)
 * [Práctica 4: Control de acceso](/practicas/P04-ControlDeAcceso/)
 * [Práctica 5: ficheros .htaccess](/practicas/P05-htaccess/)
-* [Práctica 6: Práctica final](/practicas/P06-Final/)
+* [Práctica 6: TLS](/practicas/P06-TLS/)
+* [Práctica 7: Práctica final](/practicas/P07-Final/)
 
