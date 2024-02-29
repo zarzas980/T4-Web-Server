@@ -1,4 +1,4 @@
-# Práctica 6: Configuración completa de un servidor
+# Práctica 7: Configuración completa de un servidor
 
 En ésta práctica vas a reunir todos los conocimientos de las demás prácticas. El objetivo es configurar un sitio web completo que reúna toda la configuración vista. 
 
