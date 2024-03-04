@@ -24,7 +24,7 @@ mkdir ~/easy-rsa
 ```
 Copiaremos los paquetes instalados por el paquete anterior en nuestra carpeta:
 ```
-cp /usr/share/easy-rsa/* ~/easy-rsa
+cp -r /usr/share/easy-rsa/* ~/easy-rsa
 ```
 Por último devemos iniciar la infraestrucutra de clave pública (PKI) usando el escrip del directorio:
 ```
